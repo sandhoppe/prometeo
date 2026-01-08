@@ -1,0 +1,16 @@
+{
+  "name": "PROMETEO",
+  "symbol": "PROM",
+  "description": "Moneda de la Verdad Economica contra la represión de información. Respaldada por Proof of Useful Work.",
+  "image": "https://raw.githubusercontent.com/sandhoppe/prometeo/refs/heads/main/Gemini_Generated_Image_mmcnvrmmcnvrmmcn.png",
+  "attributes": [
+    {
+      "trait_type": "Consenso",
+      "value": "Schelling Point"
+    },
+    {
+      "trait_type": "Red",
+      "value": "Python-Solana DePIN"
+    }
+  ]
+}
